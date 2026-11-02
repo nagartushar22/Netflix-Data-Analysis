@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Netflix Movies & TV Shows Data Analysis
 
 ## 📌 Project Overview
@@ -91,3 +92,7 @@ Tushar Nagar
 B.Tech Computer Science Engineering
 
 Interested in Python, Data Science, Machine Learning and Data Analytics.
+=======
+# Netflix-Data-Analysis
+Exploratory Data Analysis of Netflix Movies and TV Shows using Python.
+>>>>>>> e3ed2e789057e26fe42c3ec69c248c5a8c1dfb13
